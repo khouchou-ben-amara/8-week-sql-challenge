@@ -40,7 +40,7 @@ Each case study folder contains:
 - `schema.sql` – database structure
 - `questions.md` – business questions
 - `solutions.sql` – SQL queries
-- `insights.md` – plain-English interpretations
+- `insights.md` – my personal interpretations
 
 ---
 
